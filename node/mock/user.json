@@ -1,0 +1,3 @@
+{
+    "account": [{"username": "zhangsan", "password": "1234qwer", "id": "0", "hasp": ["home:add"]}, {"username": "admin", "password": "1234qwer", "id": "1"}]
+  }

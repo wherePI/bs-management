@@ -1,0 +1,4 @@
+{
+  "admin": [{"name":"关于", "path": "/regard", "component": "/regard/index"}],
+  "zhangsan": [{"name":"自定义", "path": "/custom", "component": "/custom/index"}, {"name":"关于", "path": "/regard", "component": "/regard/index"}]
+}
