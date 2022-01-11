@@ -1,5 +1,5 @@
 # default
-
+一个简单的后台管理系统。 基于VUECLI + ELE-UI
 ## Project setup
 ```
 npm install
